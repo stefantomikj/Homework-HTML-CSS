@@ -1,0 +1,185 @@
+body {
+  background: green;
+}
+
+.container {
+  margin: 20px;
+  display: flex;
+}
+
+.top3 {
+  display: flex;
+}
+
+#first-top3 {
+  background: lightblue;
+  width: 100px;
+  height: 50px;
+  border-bottom: 10px solid black;
+  border-right: 10px solid black;
+}
+#second-top3 {
+  background: white;
+  width: 150px;
+  height: 50px;
+  border-bottom: 10px solid black;
+  border-right: 10px solid black;
+}
+#third-top3 {
+  background: yellow;
+  width: 100px;
+  height: 50px;
+  border-bottom: 10px solid black;
+  border-right: 10px solid black;
+}
+
+.all-bellow {
+  display: flex;
+}
+
+#left-first {
+  background: white;
+  width: 50px;
+  height: 100px;
+  border-bottom: 10px solid black;
+  border-right: 10px solid black;
+}
+
+#left-second {
+  background: lightblue;
+  width: 50px;
+  height: 150px;
+  border-bottom: 10px solid black;
+  border-right: 10px solid black;
+}
+
+#left-third {
+  background: yellow;
+  width: 50px;
+  height: 100px;
+  border-right: 10px solid black;
+}
+
+#big-box {
+  width: 200px;
+  height: 200px;
+  background: red;
+  border-bottom: 10px solid black;
+  border-right: 10px solid black;
+}
+
+.leftOne-rightTwo {
+  display: flex;
+}
+
+#black-box {
+  width: 100px;
+  height: 100px;
+  background: black;
+  border-bottom: 10px solid black;
+  border-right: 10px solid black;
+}
+
+#grey-top {
+  width: 91px;
+  height: 46px;
+  background: grey;
+  border-bottom: 10px solid black;
+  border-right: 10px solid black;
+}
+#white-bottom {
+  width: 91px;
+  height: 45px;
+  background: white;
+  border-bottom: 10px solid black;
+  border-right: 10px solid black;
+}
+
+.leftWhite-rightBlackAndWhite {
+  display: flex;
+}
+
+#left-white {
+  width: 100px;
+  height: 49px;
+  background: white;
+  border-right: 10px solid black;
+}
+
+#right-black {
+  width: 91px;
+  height: 23px;
+  background: black;
+  border-right: 10px solid black;
+  border-bottom: 10px solid black;
+}
+
+#right-white {
+  width: 100px;
+  height: 17px;
+  background: white;
+}
+
+#yellow-box {
+  width: 100px;
+  height: 100px;
+  background: yellow;
+  border-right: 10px solid black;
+  border-bottom: 10px solid black;
+}
+
+.leftGrey-rightWhite {
+  display: flex;
+}
+
+#left-grey {
+  background: grey;
+  width: 45px;
+  height: 90px;
+  border-right: 10px solid black;
+  border-bottom: 10px solid black;
+}
+
+#right-white-2 {
+  background: white;
+  width: 45px;
+  height: 90px;
+  border-right: 10px solid black;
+  border-bottom: 10px solid black;
+}
+
+#lightblue-box {
+  width: 100px;
+  height: 50px;
+  background: lightblue;
+  border-right: 10px solid black;
+  border-bottom: 10px solid black;
+}
+
+#blue-box {
+  width: 100px;
+  height: 74px;
+  background: blue;
+  border-right: 10px solid black;
+  border-bottom: 10px solid black;
+}
+
+#white-2-half {
+  width: 100px;
+  height: 17px;
+  background: white;
+  border-right: 10px solid black;
+}
+
+#long-white {
+  width: 25px;
+  height: 320px;
+  background: white;
+  border-bottom: 10px solid black;
+}
+
+#red-box {
+  width: 25px;
+  height: 99px;
+  background: red;
+}
